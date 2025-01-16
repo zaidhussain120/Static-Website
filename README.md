@@ -1,2 +1,2 @@
-# Blog-Website
-Welcome to my first blog! 
+# Static-Website
+Welcome to my first Website! 
